@@ -8,6 +8,4 @@ My interests include 🎨 **UX/UI Design**, 💻 **Full-Stack Development**, �
 
 I aspire to continue blending **teaching, outreach, and coding** into a career as a full-stack developer -- empower others while building innovative solutions.
 
-Happy to connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maraliwayway/)  
-- ✉️ [Email](mailto:davidmaraliwayway@gmail.com)  
+Happy to connect with you! Here is my 💼 [LinkedIn](https://www.linkedin.com/in/maraliwayway/)  
