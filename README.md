@@ -6,6 +6,6 @@ For over **3 years**, I’ve been teaching as a coding instructor, working with 
 
 My interests include 🎨 **UX/UI Design**, 💻 **Web Development**, 🌍 **Tech for Good**.
 
-I aspire to continue blending **teaching, outreach, and coding** into a career as a software or full-stack developer -- empower others while building innovative solutions.
+I aspire to continue blending **teaching, outreach, and coding** into a career as a software or full-stack developer — empowering others while building innovative solutions.
 
 Happy to [connect](https://www.linkedin.com/in/maraliwayway/) with you!
