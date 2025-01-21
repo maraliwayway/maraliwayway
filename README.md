@@ -2,7 +2,7 @@
 
 I'm a **second-year Computing Science student** at Simon Fraser University (SFU) in Burnaby, British Columbia 🇨🇦. 
 
-For over **3 years**, I’ve been teaching as a coding instructor, working with organizations like **Code Ninjas**, **SFU Science Alive**, and hosting workshops at events like **Try/Catch 2024**, an outreach event designed for female and non-binary high school students.  
+For over **3 years**, I’ve been teaching as a coding instructor, working with organizations like [Code Ninjas](https://www.codeninjas.com/), [SFU Science Alive](https://sciencealive.ca/), and hosting workshops at events like [Try/Catch 2024](https://trycatch.cs.sfu.ca/), an outreach event designed for female and non-binary high school students (Fun fact: I help developed the website). 
 
 My interests include 🎨 **UX/UI Design**, 💻 **Full-Stack Development**, 🌍 **Tech for Good**.
 
