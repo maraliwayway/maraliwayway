@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Mara! 👋  
 
-<!--
-**maraliwayway/maraliwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **second-year Computing Science student** at Simon Fraser University (SFU) in Burnaby, British Columbia 🇨🇦. 
 
-Here are some ideas to get you started:
+For over **3 years**, I’ve been teaching as a coding instructor, working with organizations like **Code Ninjas**, **SFU Science Alive**, and hosting workshops at events like **Try/Catch 2024**, an outreach event designed for female and non-binary high school students.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include 🎨 **UX/UI Design**, 💻 **Full-Stack Development**, 🌍 **Tech for Good**.
+
+I aspire to continue blending **teaching, outreach, and coding** into a career as a full-stack developer -- empower others while building innovative solutions.
+
+Happy to connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maraliwayway/)  
+- ✉️ [Email](mailto:davidmaraliwayway@gmail.com)  
