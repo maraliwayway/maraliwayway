@@ -5,8 +5,8 @@ I'm passionate about full-stack development, AI/ML for social good, and communit
 
 I'm currently seeking Fall 2025 co-op opportunities where I can grow as a developer and continue building software that empowers others.
 
-📫 Email: mara_liwayway_david@sfu.ca
-🌐 Portfolio: [maraliwayway.com](https://maraliwayway.com/)
-💻 Linkedin: [linkedin.com/in/maraliwayway](https://www.linkedin.com/in/maraliwayway/)
+- 📫 Email: mara_liwayway_david@sfu.ca
+- 🌐 Portfolio: [maraliwayway.com](https://maraliwayway.com/)
+- 💻 Linkedin: [linkedin.com/in/maraliwayway](https://www.linkedin.com/in/maraliwayway/)
 
 Let’s connect if you’re hiring or would love to collaborate on something!
