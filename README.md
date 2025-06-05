@@ -7,6 +7,6 @@ I'm currently seeking Fall 2025 co-op opportunities where I can grow as a develo
 
 - 📫 Email: mara_liwayway_david@sfu.ca
 - 🌐 Portfolio: [maraliwayway.com](https://maraliwayway.com/)
-- 💻 Linkedin: [linkedin.com/in/maraliwayway](https://www.linkedin.com/in/maraliwayway/)
+- 🔗 Linkedin: [linkedin.com/in/maraliwayway](https://www.linkedin.com/in/maraliwayway/)
 
 Let’s connect if you’re hiring or would love to collaborate on something!
