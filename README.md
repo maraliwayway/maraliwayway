@@ -1,12 +1,8 @@
 # Mara Liwayway David — @maraliwayway
-Hello! My name is Mara, and I'm a third-year undergraduate student in Computing Science at Simon Fraser University.
+Hello! I'm Mara :)
 
-I'm passionate about full-stack development, AI/ML for social good, and community leadership. My favourite languages are Python, TypeScript, and C++, but I’m always open to learning new technologies and expanding my skills. 
+I’m a third-year Computing Science student at Simon Fraser University and currently working as a Machine Learning Software Engineer Co-op at RBC.
 
-I'm currently seeking Fall 2025 co-op opportunities where I can grow as a developer and continue building software that empowers others.
+I’m especially interested in machine learning and software engineering, and I’m actively involved in student-led tech and social good initiatives.
 
-- 📫 Email: mara_liwayway_david@sfu.ca
-- 🌐 Portfolio: [maraliwayway.com](https://maraliwayway.com/)
-- 🔗 Linkedin: [linkedin.com/in/maraliwayway](https://www.linkedin.com/in/maraliwayway/)
-
-Let’s connect if you’re hiring or would love to collaborate on something!
+[Linkedin](https://www.linkedin.com/in/maraliwayway/) | [Portfolio](https://maraliwayway.com/) | Email: mara_liwayway_david@sfu.ca
