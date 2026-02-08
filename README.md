@@ -5,4 +5,4 @@ I’m a third-year Computing Science student at Simon Fraser University and curr
 
 I’m especially interested in machine learning and software engineering, and I’m actively involved in student-led tech and social good initiatives.
 
-[Linkedin](https://www.linkedin.com/in/maraliwayway/) | [Portfolio](https://maraliwayway.com/) | Email: mara_liwayway_david@sfu.ca
+[Linkedin](https://www.linkedin.com/in/maraliwayway/) | [Portfolio](https://maraliwayway.com/) | mara_liwayway_david@sfu.ca
